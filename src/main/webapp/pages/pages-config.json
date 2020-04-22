@@ -23,6 +23,10 @@
   "type" : "LEFTNAV",
   "params" : [ ]
 }, {
+  "name" : "page1",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
   "name" : "test",
   "type" : "PAGE",
   "params" : [ ]
