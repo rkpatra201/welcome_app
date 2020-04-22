@@ -22,7 +22,11 @@
   "name" : "leftnav",
   "type" : "LEFTNAV",
   "params" : [ ]
-},  {
+}, {
+  "name" : "test",
+  "type" : "PAGE",
+  "params" : [ ]
+}, {
   "name" : "topnav",
   "type" : "TOPNAV",
   "params" : [ ]

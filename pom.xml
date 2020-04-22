@@ -438,11 +438,11 @@
     </dependencyManagement>
     <properties>
         <DMP_DATA_DIR>/app-root/runtime/data</DMP_DATA_DIR>
-        <spring.version>5.1.9.RELEASE</spring.version>
+        <spring.version>5.2.5.RELEASE</spring.version>
         <profile.props.file>development.properties</profile.props.file>
-        <spring.security.version>5.1.6.RELEASE</spring.security.version>
+        <spring.security.version>5.3.1.RELEASE</spring.security.version>
         <JWS_HOME>/opt/webserver</JWS_HOME>
-        <wavemaker.studio.version>10.0.12</wavemaker.studio.version>
+        <wavemaker.studio.version>10.0.13</wavemaker.studio.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.lib.directory>${basedir}/lib</project.lib.directory>
     </properties>
